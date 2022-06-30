@@ -1,0 +1,18 @@
+body {
+    background: black
+}
+.zagolovok  {
+    color: aliceblue; font-size: 60px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.istoria {
+    color: aliceblue; font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sujet {
+    color: aliceblue; font-size: 20px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.silka {
+    color: aliceblue; font-size: 50px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.geroi {
+    color: aliceblue; font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
